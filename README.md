@@ -10,11 +10,19 @@
 
 <h2>Punto 2: Suma de Constantes y variables</h2>
 
+<img src="./public/imagens/punto_2.png" alt="punto 2">
+
 <h2>Punto 3: Suma de Dos Numeros Indicados por el Usuario</h2>
+
+<img src="./public/imagens/punto_3.png" alt="punto 3">
 
 <h2>Punto 4: Datos del Usuario en Consola</h2>
 
+<img src="./public/imagens/punto_4.png" alt="punto 4">
+
 <h2>Punto 5: Entrada de Bolera Usando if / else</h2>
+
+<img src="./public/imagens/punto_5.png" alt="punto 5">
 
 <h2>Punto 6: Deteccion de Mayoria de Edad</h2>
 
