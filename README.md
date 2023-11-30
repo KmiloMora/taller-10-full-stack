@@ -34,16 +34,32 @@
 
 <h2>Punto 8: Entrada de Bolera Usando Switch</h2>
 
+<img src="./public/imagens/punto_8.png" alt="punto 8">
+
 <h2>Punto 9: Tabla de Multiplicar Usando While</h2>
+
+<img src="./public/imagens/punto_9.png" alt="punto 9">
 
 <h2>Punto 10: Numeros Pares Usando While</h2>
 
+<img src="./public/imagens/punto_10.png" alt="punto 10">
+
 <h2>Punto 11: Numeros Impares Usando For</h2>
+
+<img src="./public/imagens/punto_11.png" alt="punto 11">
 
 <h2>Punto 12: Tablas de Multiplicar Usando For</h2>
 
+<img src="./public/imagens/punto_12.png" alt="punto 12">
+
 <h2>Punto 13: Suma de Valores de un Arreglo Usando Foreach</h2>
+
+<img src="./public/imagens/punto_13.png" alt="punto 13">
 
 <h2>Punto 14: Revision de Contraseña</h2>
 
+<img src="./public/imagens/punto_14.png" alt="punto 14">
+
 <h2>Punto 15: Seleccion de Operacion Aritmetica Usando Funciones</h2> 
+
+<img src="./public/imagens/punto_15.png" alt="punto 15">
